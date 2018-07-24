@@ -1,0 +1,1 @@
+systemctl restart network #重启centos7网络服务
